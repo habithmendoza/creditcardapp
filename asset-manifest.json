@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/creditcardapp/static/css/main.7d44a203.chunk.css",
+    "main.js": "/creditcardapp/static/js/main.b45fbde4.chunk.js",
+    "main.js.map": "/creditcardapp/static/js/main.b45fbde4.chunk.js.map",
+    "runtime-main.js": "/creditcardapp/static/js/runtime-main.2020c811.js",
+    "runtime-main.js.map": "/creditcardapp/static/js/runtime-main.2020c811.js.map",
+    "static/js/2.b5a20263.chunk.js": "/creditcardapp/static/js/2.b5a20263.chunk.js",
+    "static/js/2.b5a20263.chunk.js.map": "/creditcardapp/static/js/2.b5a20263.chunk.js.map",
+    "index.html": "/creditcardapp/index.html",
+    "precache-manifest.bed80fa1a5ceadf2e1eee803bbc0ffa5.js": "/creditcardapp/precache-manifest.bed80fa1a5ceadf2e1eee803bbc0ffa5.js",
+    "service-worker.js": "/creditcardapp/service-worker.js",
+    "static/css/main.7d44a203.chunk.css.map": "/creditcardapp/static/css/main.7d44a203.chunk.css.map",
+    "static/js/2.b5a20263.chunk.js.LICENSE": "/creditcardapp/static/js/2.b5a20263.chunk.js.LICENSE",
+    "static/media/index.css": "/creditcardapp/static/media/Montserrat-R.ee653992.ttf",
+    "static/media/CreditCardImage.css": "/creditcardapp/static/media/visa.89225e85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2020c811.js",
+    "static/js/2.b5a20263.chunk.js",
+    "static/css/main.7d44a203.chunk.css",
+    "static/js/main.b45fbde4.chunk.js"
+  ]
+}
